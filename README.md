@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, my name is Rafael Scane and I'm a passionate about technology, mainly programming.
+### 🔭 I’m currently working as software architect.
+### 🌱 I’m currently learning about kubernet, GCP/GKE, jobs batch running on cloud, nodejs and so on. I'm focusing on getting the CKAD (Certified Kubernetes Application Developer)
 
 <!--
 **rscanesilva/rscanesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
