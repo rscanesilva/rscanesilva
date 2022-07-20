@@ -1,5 +1,5 @@
 ### 👋 Hi, my name is Rafael Scane and I'm a passionate about technology, mainly programming.
-### 🔭 I’m currently working as software architect.
+### 🔭 I’m currently working as software enginner especialist.
 
 
 <!--
