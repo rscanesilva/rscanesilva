@@ -1,10 +1,10 @@
-## Rafael Scanes Silva
-Senior Backend Engineer | Cloud Specialist | Tech Educator
+# Rafael Scanes Silva
+## Senior Backend Engineer | Cloud Specialist | Tech Educator
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscanesilva&layout=compact&theme=dracula" alt="Top Languages" /> </div></br></br>
 🚀 Professional Profile
 Experienced Backend Engineer with 8+ years of expertise in designing and implementing scalable distributed systems. Specialized in cloud-native architectures, microservices, and DevOps practices. Passionate about knowledge sharing through technical content creation and mentoring.
 
-💼 Core Competencies
+### 💼 Core Competencies
 Backend Development: Java, Spring Boot, Node.js, NestJS, Go
 
 Cloud Technologies: GCP, Kubernetes, Docker, Terraform
@@ -17,14 +17,14 @@ DevOps: CI/CD Pipelines, Monitoring (Grafana, Kibana), Infrastructure as Code
 
 Mobile Development: Android, Flutter (cross-platform)
 
-🎓 Education & Certifications
+### 🎓 Education & Certifications
 Computer Science - Universidade Federal de Uberlândia (2013-2018)
 
 Google Cloud Professional Cloud Architect - Google Cloud Certified
 
 Certified Kubernetes Administrator (CKA) - Cloud Native Computing Foundation
 
-📺 Tech Content Creator
+### 📺 Tech Content Creator
 I create educational content about software engineering and cloud technologies on YouTube:
 
 https://img.shields.io/badge/YouTube-Tech%2520Tutorials-red?style=for-the-badge&logo=youtube
