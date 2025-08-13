@@ -1,6 +1,6 @@
 Rafael Scanes Silva
 Senior Backend Engineer | Cloud Specialist | Tech Educator
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscanesilva&layout=compact&theme=dracula" alt="Top Languages" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscanesilva&layout=compact&theme=dracula" alt="Top Languages" /> </div></br></br>
 🚀 Professional Profile
 Experienced Backend Engineer with 8+ years of expertise in designing and implementing scalable distributed systems. Specialized in cloud-native architectures, microservices, and DevOps practices. Passionate about knowledge sharing through technical content creation and mentoring.
 
