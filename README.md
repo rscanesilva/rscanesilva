@@ -1,4 +1,4 @@
-# Rafael Scanes Silva
+# Rafael Scanes da Silva
 ## Senior Backend Engineer | Cloud Specialist | Tech Educator
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscanesilva&layout=compact&theme=dracula" alt="Top Languages" /> </div></br></br>
 🚀 Professional Profile
