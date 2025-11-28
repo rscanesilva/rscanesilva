@@ -4,12 +4,12 @@
 
 ---
 
-##  Resumo
+## Resumo
 Engenheiro de software com **12+ anos de experiência** em desenvolvimento backend, arquiteturas distribuídas e soluções escaláveis em cloud. Especialista em microservices, sistemas event-driven, mensageria e práticas DevOps.
 
 ---
 
-##  Competências principais
+## Competências principais
 
 **Linguagens & Plataformas:**  
 Java, Go, JavaScript, TypeScript, Kotlin, Node.js, NestJS
@@ -18,7 +18,7 @@ Java, Go, JavaScript, TypeScript, Kotlin, Node.js, NestJS
 Spring Boot
 
 **Cloud & Infra:**  
-Google Cloud Platform, Kubernetes, Docker, Terraform
+Google Cloud Platform, **Amazon Web Services (AWS)**, Kubernetes, Docker, Terraform
 
 **Mensageria e Streaming:**  
 Kafka, RabbitMQ
@@ -36,14 +36,14 @@ Android, Flutter (cross-platform)
 
 ## 🏆 Formação & Certificações
 
-###  **Formação Acadêmica**
-- **MBA em Desenvolvimento de Software com IA** — Full Cycle
+### Formação Acadêmica
+- **MBA em Desenvolvimento de Software com IA** — Full Cycle  
 - **MBA em Arquitetura de Software** — FIAP  
 - **Bacharel em Ciência da Computação** — Unifaccamp  
 
-###  Certificações
+### Certificações
 - **Google Cloud – Professional Cloud Architect**  
-- **Certified Kubernetes Developer (CKAD)**
+- **Certified Kubernetes Developer (CKAD)**  
 - **OCJP Java**
 
 ---
@@ -63,6 +63,7 @@ Android, Flutter (cross-platform)
 
 **Cloud & Infra**
 - ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -73,10 +74,8 @@ Android, Flutter (cross-platform)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-
 ---
 
 ## 📫 Contato
 - [LinkedIn](https://br.linkedin.com/in/rscanesilva)  
 - [GitHub](https://github.com/rscanesilva)  
-
