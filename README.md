@@ -1,4 +1,4 @@
-# Rafael Scane da Silva
+# Rafael Scane
 
 **Software Engineer Specialist · Backend & Cloud Engineer**
 
